@@ -1,22 +1,22 @@
 [
   {
-    "name": "ゆきねこの備忘録",
+    "name": "Blog (ゆきねこの備忘録)",
     "url": "https://yukineko.me",
     "icon": "https://favicons.githubusercontent.com/yukineko.me",
-    "slug": "",
+    "slug": "blog",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 2912,
-    "timeDay": 2912,
-    "timeWeek": 2912,
-    "timeMonth": 2912,
-    "timeYear": 2912,
+    "uptime": "26.32%",
+    "uptimeDay": "26.32%",
+    "uptimeWeek": "26.32%",
+    "uptimeMonth": "26.32%",
+    "uptimeYear": "26.32%",
+    "time": 1526,
+    "timeDay": 1526,
+    "timeWeek": 1526,
+    "timeMonth": 1526,
+    "timeYear": 1526,
     "dailyMinutesDown": {
-      "2021-05-01": 30
+      "2021-05-01": 0
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/misskey.yukineko.me",
     "slug": "misskey",
     "status": "down",
-    "uptime": "0.86%",
-    "uptimeDay": "0.86%",
-    "uptimeWeek": "0.86%",
-    "uptimeMonth": "0.86%",
-    "uptimeYear": "0.86%",
-    "time": 2140,
-    "timeDay": 2140,
-    "timeWeek": 2140,
-    "timeMonth": 2140,
-    "timeYear": 2140,
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
+    "time": 1804,
+    "timeDay": 1804,
+    "timeWeek": 1804,
+    "timeMonth": 1804,
+    "timeYear": 1804,
     "dailyMinutesDown": {
-      "2021-05-01": 15
+      "2021-05-01": 20
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/git.yukineko.me",
     "slug": "git-server-gitea",
     "status": "down",
-    "uptime": "0.92%",
-    "uptimeDay": "0.92%",
-    "uptimeWeek": "0.92%",
-    "uptimeMonth": "0.92%",
-    "uptimeYear": "0.92%",
-    "time": 2033,
-    "timeDay": 2033,
-    "timeWeek": 2033,
-    "timeMonth": 2033,
-    "timeYear": 2033,
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
+    "time": 2259,
+    "timeDay": 2259,
+    "timeWeek": 2259,
+    "timeMonth": 2259,
+    "timeYear": 2259,
     "dailyMinutesDown": {
-      "2021-05-01": 15
+      "2021-05-01": 20
     }
   }
 ]
