@@ -7,7 +7,7 @@ sites:
     url: https://yukineko.me
   - name: Misskey (隠れ家)
     url: https://misskey.yukineko.me
-  - name: GitServer
+  - name: GitServer (Gitea)
     url: https://git.yukineko.me
 
 status-website:
