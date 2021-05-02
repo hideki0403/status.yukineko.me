@@ -16,7 +16,7 @@
     "timeMonth": 3065,
     "timeYear": 3065,
     "dailyMinutesDown": {
-      "2021-05-02": 149,
+      "2021-05-02": 163,
       "2021-05-01": 621
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 2184,
     "timeYear": 2184,
     "dailyMinutesDown": {
-      "2021-05-02": 149,
+      "2021-05-02": 163,
       "2021-05-01": 640
     }
   },
@@ -47,39 +47,39 @@
     "icon": "https://favicons.githubusercontent.com/git.yukineko.me",
     "slug": "git-server-gitea",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 2461,
-    "timeDay": 2461,
-    "timeWeek": 2461,
-    "timeMonth": 2461,
-    "timeYear": 2461,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 2512,
+    "timeDay": 2512,
+    "timeWeek": 2512,
+    "timeMonth": 2512,
+    "timeYear": 2512,
     "dailyMinutesDown": {
-      "2021-05-02": 149,
+      "2021-05-02": 163,
       "2021-05-01": 640
     }
   },
   {
     "name": "EarthquakeEarlyWarningPlus",
-    "url": "https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=${{secrets.API_TOKEN}}",
+    "url": "https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN",
     "icon": "https://favicons.githubusercontent.com/discord-status-api.glitch.me",
     "slug": "earthquake-early-warning-plus",
     "status": "down",
-    "uptime": "5.55%",
-    "uptimeDay": "5.55%",
-    "uptimeWeek": "5.55%",
-    "uptimeMonth": "5.55%",
-    "uptimeYear": "5.55%",
-    "time": 489,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
+    "time": 501,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-05-02": 0
+      "2021-05-02": 14
     }
   }
 ]
