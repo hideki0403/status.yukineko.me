@@ -3,13 +3,13 @@ owner: hideki0403 # Your GitHub organization or username, where this repository 
 repo: status.yukineko.me # The name of this repository
 
 sites:
-  - name: [Web] Blog (ゆきねこの備忘録)
+  - name: Blog (ゆきねこの備忘録)
     url: https://yukineko.me
-  - name: [Web] Misskey (隠れ家)
+  - name: Misskey (隠れ家)
     url: https://misskey.yukineko.me
-  - name: [Web] GitServer (Gitea)
+  - name: GitServer (Gitea)
     url: https://git.yukineko.me
-  - name: [Bot] EarthquakeEarlyWarningPlus
+  - name: EarthquakeEarlyWarningPlus
     url: https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=${{secrets.API_TOKEN}}
 
 status-website:
