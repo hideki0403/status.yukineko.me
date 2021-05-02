@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/yukineko.me",
     "slug": "blog",
     "status": "down",
-    "uptime": "21.35%",
-    "uptimeDay": "21.35%",
-    "uptimeWeek": "21.35%",
-    "uptimeMonth": "21.35%",
-    "uptimeYear": "21.35%",
-    "time": 1526,
-    "timeDay": 1526,
-    "timeWeek": 1526,
-    "timeMonth": 1526,
-    "timeYear": 1526,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 2729,
+    "timeDay": 2729,
+    "timeWeek": 2729,
+    "timeMonth": 2729,
+    "timeYear": 2729,
     "dailyMinutesDown": {
-      "2021-05-01": 0
+      "2021-05-02": 56,
+      "2021-05-01": 621
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/misskey.yukineko.me",
     "slug": "misskey",
     "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
-    "time": 1804,
-    "timeDay": 1804,
-    "timeWeek": 1804,
-    "timeMonth": 1804,
-    "timeYear": 1804,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 2045,
+    "timeDay": 2045,
+    "timeWeek": 2045,
+    "timeMonth": 2045,
+    "timeYear": 2045,
     "dailyMinutesDown": {
-      "2021-05-01": 20
+      "2021-05-02": 56,
+      "2021-05-01": 640
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/git.yukineko.me",
     "slug": "git-server-gitea",
     "status": "down",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
-    "time": 2259,
-    "timeDay": 2259,
-    "timeWeek": 2259,
-    "timeMonth": 2259,
-    "timeYear": 2259,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 2383,
+    "timeDay": 2383,
+    "timeWeek": 2383,
+    "timeMonth": 2383,
+    "timeYear": 2383,
     "dailyMinutesDown": {
-      "2021-05-01": 20
+      "2021-05-02": 56,
+      "2021-05-01": 640
     }
   }
 ]
