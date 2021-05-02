@@ -1,7 +1,7 @@
-url: https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=${{secrets.API_TOKEN}}
+url: https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN
 status: down
-code: 401
-responseTime: 489
-lastUpdated: 2021-05-02T02:28:37.029Z
+code: 503
+responseTime: 513
+lastUpdated: 2021-05-02T02:42:21.374Z
 startTime: Sun May 02 2021 02:28:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
