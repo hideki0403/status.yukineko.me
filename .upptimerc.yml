@@ -14,7 +14,6 @@ sites:
 
 status-website:
   cname: status.yukineko.me
-  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Statuses
   introTitle: "サービス稼働状況"
