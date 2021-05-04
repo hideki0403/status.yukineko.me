@@ -11,6 +11,9 @@ sites:
     url: https://git.yukineko.me
   - name: EarthquakeEarlyWarningPlus
     url: https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN
+    expectedStatusCodes:
+      - 200
+      - 503
 
 status-website:
   cname: status.yukineko.me
