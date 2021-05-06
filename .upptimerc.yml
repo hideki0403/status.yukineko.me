@@ -9,6 +9,8 @@ sites:
     url: https://misskey.yukineko.me
   - name: GitServer (Gitea)
     url: https://git.yukineko.me
+  - name: Firefox Send (Selfhost)
+    url: https://send.yukineko.me
   - name: EarthquakeEarlyWarningPlus
     url: https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN
     expectedStatusCodes:
