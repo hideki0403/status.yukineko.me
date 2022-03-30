@@ -1,7 +1,7 @@
 url: https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN
 status: up
 code: 200
-responseTime: 9434
-lastUpdated: 2022-03-29T23:22:01.535Z
+responseTime: 428
+lastUpdated: 2022-03-30T23:21:22.234Z
 startTime: Sun May 02 2021 02:28:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
