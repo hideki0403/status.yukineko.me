@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.46%",
-    "time": 1760,
-    "timeDay": 1362,
-    "timeWeek": 1270,
-    "timeMonth": 1204,
-    "timeYear": 1760,
+    "time": 1758,
+    "timeDay": 924,
+    "timeWeek": 1134,
+    "timeMonth": 1214,
+    "timeYear": 1758,
     "dailyMinutesDown": {
       "2022-04-19": 23,
       "2022-04-17": 24,
@@ -56,8 +56,7 @@
       "2021-05-26": 30,
       "2021-05-21": 26,
       "2021-05-08": 18,
-      "2021-05-02": 680,
-      "2021-05-01": 621
+      "2021-05-02": 680
     }
   },
   {
@@ -66,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/misskey.yukineko.me",
     "slug": "misskey",
     "status": "up",
-    "uptime": "88.97%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "88.97%",
+    "uptime": "88.99%",
+    "uptimeDay": "47.69%",
+    "uptimeWeek": "6.81%",
+    "uptimeMonth": "2.95%",
+    "uptimeYear": "88.99%",
     "time": 898,
-    "timeDay": 707,
-    "timeWeek": 596,
-    "timeMonth": 655,
+    "timeDay": 743,
+    "timeWeek": 630,
+    "timeMonth": 665,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2022-04-30": 867,
@@ -148,8 +147,7 @@
       "2021-05-26": 29,
       "2021-05-21": 25,
       "2021-05-08": 17,
-      "2021-05-02": 683,
-      "2021-05-01": 640
+      "2021-05-02": 683
     }
   },
   {
@@ -158,15 +156,15 @@
     "icon": "https://favicons.githubusercontent.com/git.yukineko.me",
     "slug": "git-server-gitea",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 853,
-    "timeDay": 759,
-    "timeWeek": 540,
-    "timeMonth": 636,
+    "timeDay": 746,
+    "timeWeek": 570,
+    "timeMonth": 644,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2022-04-17": 21,
@@ -198,8 +196,7 @@
       "2021-05-29": 339,
       "2021-05-21": 25,
       "2021-05-08": 15,
-      "2021-05-02": 681,
-      "2021-05-01": 640
+      "2021-05-02": 681
     }
   },
   {
@@ -208,16 +205,16 @@
     "icon": "https://favicons.githubusercontent.com/discord-status-api.glitch.me",
     "slug": "earthquake-early-warning-plus",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.31%",
-    "time": 6095,
-    "timeDay": 9083,
-    "timeWeek": 7946,
-    "timeMonth": 5344,
-    "timeYear": 6095,
+    "uptimeYear": "98.32%",
+    "time": 6086,
+    "timeDay": 287,
+    "timeWeek": 6709,
+    "timeMonth": 5224,
+    "timeYear": 6086,
     "dailyMinutesDown": {
       "2022-04-05": 45,
       "2022-03-25": 67,
