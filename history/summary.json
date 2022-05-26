@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/yukineko.me",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "98.70%",
-    "time": 1727,
-    "timeDay": 1866,
-    "timeWeek": 1355,
-    "timeMonth": 1215,
-    "timeYear": 1716,
+    "time": 1725,
+    "timeDay": 997,
+    "timeWeek": 1338,
+    "timeMonth": 1211,
+    "timeYear": 1715,
     "dailyMinutesDown": {
       "2022-05-22": 25,
       "2022-05-21": 21,
@@ -56,8 +56,7 @@
       "2021-07-11": 18,
       "2021-06-24": 250,
       "2021-06-14": 21,
-      "2021-05-29": 342,
-      "2021-05-26": 30
+      "2021-05-29": 342
     }
   },
   {
@@ -66,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/misskey.yukineko.me",
     "slug": "misskey",
     "status": "up",
-    "uptime": "89.65%",
+    "uptime": "89.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
-    "uptimeMonth": "81.53%",
+    "uptimeMonth": "84.82%",
     "uptimeYear": "89.24%",
     "time": 889,
-    "timeDay": 870,
-    "timeWeek": 821,
-    "timeMonth": 721,
+    "timeDay": 864,
+    "timeWeek": 845,
+    "timeMonth": 729,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2022-05-22": 23,
@@ -148,8 +147,7 @@
       "2021-07-11": 17,
       "2021-06-24": 249,
       "2021-06-14": 21,
-      "2021-05-29": 341,
-      "2021-05-26": 29
+      "2021-05-29": 341
     }
   },
   {
@@ -164,9 +162,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.77%",
     "time": 849,
-    "timeDay": 833,
-    "timeWeek": 744,
-    "timeMonth": 763,
+    "timeDay": 867,
+    "timeWeek": 774,
+    "timeMonth": 772,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2022-05-22": 22,
@@ -213,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.32%",
-    "time": 6119,
-    "timeDay": 9805,
-    "timeWeek": 4134,
-    "timeMonth": 7157,
-    "timeYear": 5985,
+    "time": 6122,
+    "timeDay": 8324,
+    "timeWeek": 5282,
+    "timeMonth": 7141,
+    "timeYear": 5997,
     "dailyMinutesDown": {
       "2022-04-05": 45,
       "2022-03-25": 67,
