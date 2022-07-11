@@ -6,14 +6,14 @@
     "slug": "blog",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "97.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "98.70%",
-    "time": 1653,
-    "timeDay": 1833,
-    "timeWeek": 1547,
-    "timeMonth": 1169,
+    "time": 1651,
+    "timeDay": 727,
+    "timeWeek": 1471,
+    "timeMonth": 1162,
     "timeYear": 1667,
     "dailyMinutesDown": {
       "2022-07-09": 39,
@@ -61,8 +61,7 @@
       "2021-09-18": 23,
       "2021-08-06": 18,
       "2021-07-28": 18,
-      "2021-07-20": 16,
-      "2021-07-11": 18
+      "2021-07-20": 16
     }
   },
   {
@@ -71,15 +70,15 @@
     "icon": "https://favicons.githubusercontent.com/misskey.yukineko.me",
     "slug": "misskey",
     "status": "up",
-    "uptime": "90.63%",
-    "uptimeDay": "97.42%",
+    "uptime": "90.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "89.23%",
-    "time": 911,
-    "timeDay": 907,
-    "timeWeek": 840,
-    "timeMonth": 1117,
+    "time": 910,
+    "timeDay": 776,
+    "timeWeek": 861,
+    "timeMonth": 1120,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2022-07-09": 37,
@@ -159,8 +158,7 @@
       "2021-08-06": 18,
       "2021-08-03": 18,
       "2021-07-28": 18,
-      "2021-07-20": 16,
-      "2021-07-11": 17
+      "2021-07-20": 16
     }
   },
   {
@@ -170,12 +168,12 @@
     "slug": "git-server-gitea",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "97.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.76%",
-    "time": 821,
-    "timeDay": 486,
+    "time": 820,
+    "timeDay": 563,
     "timeWeek": 660,
     "timeMonth": 606,
     "timeYear": 810,
@@ -216,8 +214,7 @@
       "2021-10-04": 114,
       "2021-09-01": 20,
       "2021-08-03": 15,
-      "2021-07-28": 18,
-      "2021-07-11": 17
+      "2021-07-28": 18
     }
   },
   {
@@ -226,16 +223,16 @@
     "icon": "https://favicons.githubusercontent.com/discord-status-api.glitch.me",
     "slug": "earthquake-early-warning-plus",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.37%",
-    "time": 6033,
-    "timeDay": 10842,
-    "timeWeek": 4655,
-    "timeMonth": 5323,
-    "timeYear": 5796,
+    "time": 6026,
+    "timeDay": 447,
+    "timeWeek": 4642,
+    "timeMonth": 5324,
+    "timeYear": 5777,
     "dailyMinutesDown": {
       "2022-07-02": 15,
       "2022-07-01": 65,
