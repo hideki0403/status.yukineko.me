@@ -72,7 +72,7 @@
     "icon": "https://favicons.githubusercontent.com/misskey.yukineko.me",
     "slug": "misskey",
     "status": "up",
-    "uptime": "91.26%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
@@ -229,18 +229,19 @@
     "url": "https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN",
     "icon": "https://favicons.githubusercontent.com/discord-status-api.glitch.me",
     "slug": "earthquake-early-warning-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "93.79%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "98.38%",
-    "time": 5950,
-    "timeDay": 8207,
+    "uptimeYear": "98.39%",
+    "time": 5958,
+    "timeDay": 8848,
     "timeWeek": 7104,
     "timeMonth": 5413,
     "timeYear": 5813,
     "dailyMinutesDown": {
+      "2022-08-13": 0,
       "2022-08-12": 90,
       "2022-07-28": 44,
       "2022-07-02": 15,
@@ -280,8 +281,7 @@
       "2021-10-04": 233,
       "2021-10-03": 792,
       "2021-10-02": 235,
-      "2021-10-01": 282,
-      "2021-09-29": 33
+      "2021-10-01": 282
     }
   }
 ]
