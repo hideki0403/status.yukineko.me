@@ -232,17 +232,17 @@
     "url": "https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN",
     "icon": "https://favicons.githubusercontent.com/discord-status-api.glitch.me",
     "slug": "earthquake-early-warning-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "97.28%",
+    "uptimeDay": "92.10%",
+    "uptimeWeek": "97.27%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "98.37%",
-    "time": 5917,
-    "timeDay": 5593,
-    "timeWeek": 6970,
-    "timeMonth": 5670,
-    "timeYear": 5761,
+    "uptimeYear": "98.38%",
+    "time": 5902,
+    "timeDay": 4709,
+    "timeWeek": 6619,
+    "timeMonth": 5555,
+    "timeYear": 5753,
     "dailyMinutesDown": {
       "2022-08-15": 113,
       "2022-08-13": 71,
@@ -285,7 +285,7 @@
       "2021-10-04": 233,
       "2021-10-03": 792,
       "2021-10-02": 235,
-      "2021-10-01": 180
+      "2021-10-01": 159
     }
   }
 ]
