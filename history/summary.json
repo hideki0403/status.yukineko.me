@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/yukineko.me",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "98.88%",
@@ -248,18 +248,19 @@
     "url": "https://discord-status-api.glitch.me/api/v1/status/460323119651880960?token=$API_TOKEN",
     "icon": "https://favicons.githubusercontent.com/discord-status-api.glitch.me",
     "slug": "earthquake-early-warning-plus",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "98.35%",
-    "time": 5808,
-    "timeDay": 244,
-    "timeWeek": 5396,
-    "timeMonth": 5468,
-    "timeYear": 5683,
+    "uptimeYear": "98.37%",
+    "time": 5819,
+    "timeDay": 4675,
+    "timeWeek": 5860,
+    "timeMonth": 5546,
+    "timeYear": 5688,
     "dailyMinutesDown": {
+      "2022-09-01": 0,
       "2022-08-16": 37,
       "2022-08-15": 235,
       "2022-08-13": 71,
@@ -302,7 +303,7 @@
       "2021-10-04": 233,
       "2021-10-03": 792,
       "2021-10-02": 235,
-      "2021-10-01": 118
+      "2021-10-01": 30
     }
   }
 ]
