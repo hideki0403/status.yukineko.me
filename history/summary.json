@@ -11,8 +11,8 @@
     "uptimeMonth": "99.09%",
     "uptimeYear": "98.53%",
     "time": 1589,
-    "timeDay": 1353,
-    "timeWeek": 1190,
+    "timeDay": 1310,
+    "timeWeek": 1216,
     "timeMonth": 1239,
     "timeYear": 1503,
     "dailyMinutesDown": {
@@ -76,8 +76,7 @@
       "2021-11-04": 364,
       "2021-10-31": 629,
       "2021-10-29": 98,
-      "2021-10-21": 888,
-      "2021-10-20": 1018
+      "2021-10-21": 888
     }
   },
   {
@@ -86,14 +85,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "92.27%",
+    "uptime": "92.28%",
     "uptimeDay": "93.71%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "89.25%",
     "time": 885,
-    "timeDay": 932,
-    "timeWeek": 854,
+    "timeDay": 741,
+    "timeWeek": 823,
     "timeMonth": 817,
     "timeYear": 930,
     "dailyMinutesDown": {
@@ -186,8 +185,7 @@
       "2021-11-04": 362,
       "2021-10-31": 628,
       "2021-10-29": 97,
-      "2021-10-21": 888,
-      "2021-10-20": 1017
+      "2021-10-21": 888
     }
   },
   {
@@ -201,11 +199,11 @@
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "98.61%",
-    "time": 792,
-    "timeDay": 979,
-    "timeWeek": 824,
+    "time": 791,
+    "timeDay": 668,
+    "timeWeek": 788,
     "timeMonth": 758,
-    "timeYear": 820,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2022-10-19": 89,
       "2022-10-10": 156,
@@ -258,8 +256,7 @@
       "2021-11-04": 361,
       "2021-10-31": 626,
       "2021-10-29": 95,
-      "2021-10-21": 888,
-      "2021-10-20": 1015
+      "2021-10-21": 888
     }
   },
   {
@@ -272,12 +269,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 5679,
-    "timeDay": 10275,
-    "timeWeek": 8960,
-    "timeMonth": 5707,
-    "timeYear": 5613,
+    "timeDay": 367,
+    "timeWeek": 7669,
+    "timeMonth": 5410,
+    "timeYear": 5599,
     "dailyMinutesDown": {
       "2022-09-01": 148,
       "2022-08-16": 37,
@@ -310,8 +307,7 @@
       "2021-10-29": 801,
       "2021-10-28": 966,
       "2021-10-26": 254,
-      "2021-10-21": 39,
-      "2021-10-20": 367
+      "2021-10-21": 39
     }
   }
 ]
