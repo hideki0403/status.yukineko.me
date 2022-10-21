@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yukineko.me.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "93.61%",
+    "uptime": "98.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "98.74%",
     "time": 1589,
-    "timeDay": 1310,
-    "timeWeek": 1216,
-    "timeMonth": 1239,
+    "timeDay": 1517,
+    "timeWeek": 1285,
+    "timeMonth": 1272,
     "timeYear": 1503,
     "dailyMinutesDown": {
       "2022-10-19": 92,
@@ -75,8 +75,7 @@
       "2021-11-05": 857,
       "2021-11-04": 364,
       "2021-10-31": 629,
-      "2021-10-29": 98,
-      "2021-10-21": 888
+      "2021-10-29": 98
     }
   },
   {
@@ -85,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "92.28%",
-    "uptimeDay": "93.71%",
+    "uptime": "92.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "89.25%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "89.46%",
     "time": 885,
-    "timeDay": 741,
-    "timeWeek": 823,
-    "timeMonth": 817,
+    "timeDay": 873,
+    "timeWeek": 826,
+    "timeMonth": 823,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2022-10-19": 91,
@@ -184,8 +183,7 @@
       "2021-11-05": 857,
       "2021-11-04": 362,
       "2021-10-31": 628,
-      "2021-10-29": 97,
-      "2021-10-21": 888
+      "2021-10-29": 97
     }
   },
   {
@@ -195,14 +193,14 @@
     "slug": "git-server-gitea",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "93.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "98.61%",
-    "time": 791,
-    "timeDay": 668,
-    "timeWeek": 788,
-    "timeMonth": 758,
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "98.82%",
+    "time": 792,
+    "timeDay": 796,
+    "timeWeek": 789,
+    "timeMonth": 765,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2022-10-19": 89,
@@ -255,8 +253,7 @@
       "2021-11-05": 857,
       "2021-11-04": 361,
       "2021-10-31": 626,
-      "2021-10-29": 95,
-      "2021-10-21": 888
+      "2021-10-29": 95
     }
   },
   {
@@ -269,12 +266,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.82%",
     "time": 5679,
-    "timeDay": 367,
-    "timeWeek": 7669,
-    "timeMonth": 5410,
-    "timeYear": 5599,
+    "timeDay": 200,
+    "timeWeek": 6313,
+    "timeMonth": 5114,
+    "timeYear": 5562,
     "dailyMinutesDown": {
       "2022-09-01": 148,
       "2022-08-16": 37,
@@ -306,8 +303,7 @@
       "2021-10-30": 1321,
       "2021-10-29": 801,
       "2021-10-28": 966,
-      "2021-10-26": 254,
-      "2021-10-21": 39
+      "2021-10-26": 254
     }
   }
 ]
