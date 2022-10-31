@@ -6,14 +6,14 @@
     "slug": "blog",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "89.73%",
+    "uptimeDay": "94.95%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.88%",
-    "time": 1588,
-    "timeDay": 1099,
-    "timeWeek": 1597,
-    "timeMonth": 1314,
+    "time": 1589,
+    "timeDay": 1525,
+    "timeWeek": 1542,
+    "timeMonth": 1320,
     "timeYear": 1503,
     "dailyMinutesDown": {
       "2022-10-30": 148,
@@ -74,8 +74,7 @@
       "2021-12-25": 24,
       "2021-11-24": 59,
       "2021-11-05": 857,
-      "2021-11-04": 364,
-      "2021-10-31": 629
+      "2021-11-04": 364
     }
   },
   {
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "92.40%",
-    "uptimeDay": "89.83%",
+    "uptime": "92.41%",
+    "uptimeDay": "94.95%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "89.60%",
-    "time": 887,
-    "timeDay": 717,
-    "timeWeek": 810,
-    "timeMonth": 810,
+    "time": 888,
+    "timeDay": 845,
+    "timeWeek": 804,
+    "timeMonth": 811,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2022-10-30": 146,
@@ -182,8 +181,7 @@
       "2021-12-25": 22,
       "2021-11-24": 46,
       "2021-11-05": 857,
-      "2021-11-04": 362,
-      "2021-10-31": 628
+      "2021-11-04": 362
     }
   },
   {
@@ -198,9 +196,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.99%",
     "time": 793,
-    "timeDay": 543,
-    "timeWeek": 737,
-    "timeMonth": 746,
+    "timeDay": 787,
+    "timeWeek": 731,
+    "timeMonth": 748,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2022-10-19": 89,
@@ -251,8 +249,7 @@
       "2021-12-25": 21,
       "2021-11-24": 45,
       "2021-11-05": 857,
-      "2021-11-04": 361,
-      "2021-10-31": 626
+      "2021-11-04": 361
     }
   },
   {
@@ -265,12 +262,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
-    "time": 5583,
-    "timeDay": 495,
-    "timeWeek": 5862,
-    "timeMonth": 5210,
-    "timeYear": 5289,
+    "uptimeYear": "99.48%",
+    "time": 5582,
+    "timeDay": 199,
+    "timeWeek": 4591,
+    "timeMonth": 5048,
+    "timeYear": 5205,
     "dailyMinutesDown": {
       "2022-09-01": 148,
       "2022-08-16": 37,
@@ -297,8 +294,7 @@
       "2021-12-06": 16,
       "2021-12-02": 28,
       "2021-12-01": 140,
-      "2021-11-16": 17,
-      "2021-10-31": 722
+      "2021-11-16": 17
     }
   }
 ]
