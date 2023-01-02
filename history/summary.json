@@ -6,15 +6,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.19%",
-    "time": 1577,
-    "timeDay": 990,
-    "timeWeek": 1345,
-    "timeMonth": 1372,
-    "timeYear": 1519,
+    "time": 1578,
+    "timeDay": 1900,
+    "timeWeek": 1462,
+    "timeMonth": 1393,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2022-12-31": 17,
       "2022-12-27": 33,
@@ -76,8 +76,7 @@
       "2022-03-04": 16,
       "2022-02-08": 18,
       "2022-01-17": 26,
-      "2022-01-04": 22,
-      "2022-01-02": 29
+      "2022-01-04": 22
     }
   },
   {
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "93.17%",
+    "uptime": "93.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.96%",
     "time": 977,
-    "timeDay": 858,
-    "timeWeek": 807,
-    "timeMonth": 1750,
+    "timeDay": 869,
+    "timeWeek": 842,
+    "timeMonth": 1749,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2022-11-30": 20,
@@ -180,8 +179,7 @@
       "2022-03-18": 527,
       "2022-02-20": 17,
       "2022-02-08": 16,
-      "2022-01-04": 20,
-      "2022-01-02": 29
+      "2022-01-04": 20
     }
   },
   {
@@ -196,9 +194,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.29%",
     "time": 823,
-    "timeDay": 822,
-    "timeWeek": 716,
-    "timeMonth": 1362,
+    "timeDay": 790,
+    "timeWeek": 742,
+    "timeMonth": 1361,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2022-12-27": 32,
@@ -251,8 +249,7 @@
       "2022-03-22": 309,
       "2022-03-19": 137,
       "2022-03-18": 504,
-      "2022-01-04": 19,
-      "2022-01-02": 29
+      "2022-01-04": 19
     }
   },
   {
@@ -261,16 +258,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-status-api.glitch.me.ico",
     "slug": "earthquake-early-warning-plus",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.74%",
-    "time": 5491,
-    "timeDay": 237,
-    "timeWeek": 4635,
-    "timeMonth": 3820,
-    "timeYear": 4937,
+    "time": 5490,
+    "timeDay": 10252,
+    "timeWeek": 4734,
+    "timeMonth": 4073,
+    "timeYear": 4932,
     "dailyMinutesDown": {
       "2022-12-12": 17,
       "2022-12-01": 143,
@@ -292,8 +289,7 @@
       "2022-02-03": 67,
       "2022-02-01": 72,
       "2022-01-21": 17,
-      "2022-01-04": 19,
-      "2022-01-02": 29
+      "2022-01-04": 19
     }
   }
 ]
