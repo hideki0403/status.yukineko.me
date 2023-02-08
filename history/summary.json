@@ -11,9 +11,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.17%",
     "time": 1526,
-    "timeDay": 1198,
-    "timeWeek": 1214,
-    "timeMonth": 1244,
+    "timeDay": 1090,
+    "timeWeek": 1329,
+    "timeMonth": 1268,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2023-02-07": 17,
@@ -78,8 +78,7 @@
       "2022-03-22": 311,
       "2022-03-19": 137,
       "2022-03-18": 529,
-      "2022-03-04": 16,
-      "2022-02-08": 18
+      "2022-03-04": 16
     }
   },
   {
@@ -88,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "93.56%",
+    "uptime": "93.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "89.97%",
-    "time": 1074,
-    "timeDay": 767,
-    "timeWeek": 691,
-    "timeMonth": 1542,
-    "timeYear": 1117,
+    "time": 1075,
+    "timeDay": 828,
+    "timeWeek": 717,
+    "timeMonth": 1541,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -181,8 +180,7 @@
       "2022-03-22": 311,
       "2022-03-19": 137,
       "2022-03-18": 527,
-      "2022-02-20": 17,
-      "2022-02-08": 16
+      "2022-02-20": 17
     }
   },
   {
@@ -196,10 +194,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.27%",
-    "time": 833,
-    "timeDay": 787,
-    "timeWeek": 733,
-    "timeMonth": 738,
+    "time": 834,
+    "timeDay": 801,
+    "timeWeek": 744,
+    "timeMonth": 736,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2023-02-07": 16,
@@ -269,11 +267,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.77%",
-    "time": 5104,
-    "timeDay": 9714,
-    "timeWeek": 3020,
-    "timeMonth": 4863,
-    "timeYear": 4785,
+    "time": 5105,
+    "timeDay": 9567,
+    "timeWeek": 4342,
+    "timeMonth": 5104,
+    "timeYear": 4806,
     "dailyMinutesDown": {
       "2023-01-30": 26,
       "2023-01-26": 38,
