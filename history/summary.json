@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.27%",
     "time": 1512,
-    "timeDay": 1491,
-    "timeWeek": 1206,
-    "timeMonth": 1281,
-    "timeYear": 1401,
+    "timeDay": 1926,
+    "timeWeek": 1384,
+    "timeMonth": 1295,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2023-03-11": 32,
       "2023-02-16": 15,
@@ -77,8 +77,7 @@
       "2022-04-03": 34,
       "2022-03-25": 190,
       "2022-03-24": 15,
-      "2022-03-23": 223,
-      "2022-03-22": 311
+      "2022-03-23": 223
     }
   },
   {
@@ -93,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.10%",
     "time": 1075,
-    "timeDay": 834,
-    "timeWeek": 778,
-    "timeMonth": 749,
-    "timeYear": 1101,
+    "timeDay": 914,
+    "timeWeek": 832,
+    "timeMonth": 750,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -176,8 +175,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 786,
       "2022-03-25": 189,
-      "2022-03-23": 223,
-      "2022-03-22": 311
+      "2022-03-23": 223
     }
   },
   {
@@ -186,15 +184,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.yukineko.me.ico",
     "slug": "git-server-gitea",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.36%",
     "time": 835,
-    "timeDay": 811,
-    "timeWeek": 746,
-    "timeMonth": 732,
+    "timeDay": 773,
+    "timeWeek": 779,
+    "timeMonth": 729,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2023-03-11": 31,
@@ -249,8 +247,7 @@
       "2022-04-13": 103,
       "2022-04-06": 71,
       "2022-03-25": 187,
-      "2022-03-23": 223,
-      "2022-03-22": 309
+      "2022-03-23": 223
     }
   },
   {
@@ -259,18 +256,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-status-api.glitch.me.ico",
     "slug": "earthquake-early-warning-plus",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "71.52%",
-    "uptimeWeek": "95.93%",
-    "uptimeMonth": "98.43%",
+    "uptime": "99.08%",
+    "uptimeDay": "72.09%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "99.41%",
-    "time": 5034,
-    "timeDay": 8206,
-    "timeWeek": 6471,
-    "timeMonth": 4808,
-    "timeYear": 5146,
+    "time": 5020,
+    "timeDay": 8239,
+    "timeWeek": 6467,
+    "timeMonth": 4811,
+    "timeYear": 5123,
     "dailyMinutesDown": {
-      "2023-03-21": 410,
+      "2023-03-21": 402,
       "2023-03-12": 176,
       "2023-03-11": 84,
       "2023-02-23": 16,
