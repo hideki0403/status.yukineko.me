@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.34%",
     "time": 1512,
-    "timeDay": 1926,
-    "timeWeek": 1384,
-    "timeMonth": 1295,
-    "timeYear": 1403,
+    "timeDay": 1024,
+    "timeWeek": 1319,
+    "timeMonth": 1300,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2023-03-11": 32,
       "2023-02-16": 15,
@@ -76,8 +76,7 @@
       "2022-04-06": 74,
       "2022-04-03": 34,
       "2022-03-25": 190,
-      "2022-03-24": 15,
-      "2022-03-23": 223
+      "2022-03-24": 15
     }
   },
   {
@@ -86,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "93.96%",
+    "uptime": "93.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.10%",
+    "uptimeYear": "90.17%",
     "time": 1075,
-    "timeDay": 914,
-    "timeWeek": 832,
-    "timeMonth": 750,
-    "timeYear": 1102,
+    "timeDay": 797,
+    "timeWeek": 802,
+    "timeMonth": 757,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -174,8 +173,7 @@
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 786,
-      "2022-03-25": 189,
-      "2022-03-23": 223
+      "2022-03-25": 189
     }
   },
   {
@@ -188,12 +186,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.44%",
     "time": 835,
-    "timeDay": 773,
-    "timeWeek": 779,
-    "timeMonth": 729,
-    "timeYear": 782,
+    "timeDay": 820,
+    "timeWeek": 781,
+    "timeMonth": 734,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2023-03-11": 31,
       "2023-02-08": 131,
@@ -246,8 +244,7 @@
       "2022-04-17": 21,
       "2022-04-13": 103,
       "2022-04-06": 71,
-      "2022-03-25": 187,
-      "2022-03-23": 223
+      "2022-03-25": 187
     }
   },
   {
@@ -257,15 +254,15 @@
     "slug": "earthquake-early-warning-plus",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "72.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.01%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.41%",
-    "time": 5020,
-    "timeDay": 8239,
-    "timeWeek": 6467,
-    "timeMonth": 4811,
-    "timeYear": 5123,
+    "time": 4993,
+    "timeDay": 153,
+    "timeWeek": 6447,
+    "timeMonth": 4807,
+    "timeYear": 5144,
     "dailyMinutesDown": {
       "2023-03-21": 402,
       "2023-03-12": 176,
@@ -291,8 +288,7 @@
       "2022-06-21": 43,
       "2022-05-26": 19,
       "2022-04-05": 45,
-      "2022-03-25": 67,
-      "2022-03-23": 26
+      "2022-03-25": 67
     }
   }
 ]
