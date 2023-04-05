@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.42%",
-    "time": 1506,
-    "timeDay": 1985,
-    "timeWeek": 1263,
-    "timeMonth": 1396,
-    "timeYear": 1390,
+    "time": 1505,
+    "timeDay": 1638,
+    "timeWeek": 1355,
+    "timeMonth": 1397,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2023-03-11": 32,
       "2023-02-16": 15,
@@ -82,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.32%",
-    "time": 1070,
-    "timeDay": 901,
-    "timeWeek": 743,
-    "timeMonth": 748,
-    "timeYear": 1102,
+    "uptimeYear": "92.59%",
+    "time": 1069,
+    "timeDay": 563,
+    "timeWeek": 715,
+    "timeMonth": 747,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -159,8 +159,7 @@
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
-      "2022-04-06": 1440,
-      "2022-04-05": 1440
+      "2022-04-06": 1440
     }
   },
   {
@@ -169,14 +168,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.yukineko.me.ico",
     "slug": "git-server-gitea",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.50%",
     "time": 835,
-    "timeDay": 949,
-    "timeWeek": 752,
+    "timeDay": 575,
+    "timeWeek": 720,
     "timeMonth": 728,
     "timeYear": 775,
     "dailyMinutesDown": {
@@ -245,10 +244,10 @@
     "uptimeMonth": "96.29%",
     "uptimeYear": "99.25%",
     "time": 4838,
-    "timeDay": 258,
-    "timeWeek": 3603,
-    "timeMonth": 4518,
-    "timeYear": 5072,
+    "timeDay": 420,
+    "timeWeek": 3632,
+    "timeMonth": 4361,
+    "timeYear": 5053,
     "dailyMinutesDown": {
       "2023-03-24": 627,
       "2023-03-23": 337,
@@ -274,8 +273,7 @@
       "2022-07-01": 65,
       "2022-06-30": 56,
       "2022-06-21": 43,
-      "2022-05-26": 19,
-      "2022-04-05": 45
+      "2022-05-26": 19
     }
   }
 ]
