@@ -6,15 +6,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "77.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.81%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.42%",
-    "time": 1515,
-    "timeDay": 7283,
-    "timeWeek": 3377,
-    "timeMonth": 1984,
-    "timeYear": 1453,
+    "time": 1514,
+    "timeDay": 1143,
+    "timeWeek": 3394,
+    "timeMonth": 1974,
+    "timeYear": 1454,
     "dailyMinutesDown": {
       "2023-05-19": 322,
       "2023-03-11": 32,
@@ -67,8 +67,7 @@
       "2022-06-14": 20,
       "2022-06-07": 84,
       "2022-06-02": 36,
-      "2022-05-22": 25,
-      "2022-05-21": 21
+      "2022-05-22": 25
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "94.44%",
+    "uptime": "94.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 1084,
-    "timeDay": 10688,
+    "time": 1083,
+    "timeDay": 426,
     "timeWeek": 3836,
-    "timeMonth": 1350,
+    "timeMonth": 1355,
     "timeYear": 1146,
     "dailyMinutesDown": {
       "2023-01-16": 38,
@@ -126,8 +125,7 @@
       "2022-06-14": 18,
       "2022-06-07": 83,
       "2022-06-02": 35,
-      "2022-05-22": 23,
-      "2022-05-21": 19
+      "2022-05-22": 23
     }
   },
   {
@@ -137,14 +135,14 @@
     "slug": "git-server-gitea",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "78.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.96%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.49%",
-    "time": 795,
-    "timeDay": 3085,
-    "timeWeek": 1522,
-    "timeMonth": 979,
+    "time": 794,
+    "timeDay": 543,
+    "timeWeek": 1493,
+    "timeMonth": 972,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2023-05-19": 307,
@@ -192,8 +190,7 @@
       "2022-06-14": 17,
       "2022-06-07": 81,
       "2022-06-02": 33,
-      "2022-05-22": 22,
-      "2022-05-21": 18
+      "2022-05-22": 22
     }
   },
   {
@@ -202,14 +199,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-status-api.glitch.me.ico",
     "slug": "earthquake-early-warning-plus",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "78.52%",
+    "uptime": "99.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.19%",
-    "time": 4612,
-    "timeDay": 4403,
-    "timeWeek": 3544,
+    "time": 4611,
+    "timeDay": 363,
+    "timeWeek": 3559,
     "timeMonth": 3063,
     "timeYear": 4668,
     "dailyMinutesDown": {
