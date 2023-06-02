@@ -11,10 +11,10 @@
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.42%",
     "time": 1547,
-    "timeDay": 1921,
-    "timeWeek": 4140,
-    "timeMonth": 2545,
-    "timeYear": 1507,
+    "timeDay": 1237,
+    "timeWeek": 4151,
+    "timeMonth": 2547,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2023-05-26": 16,
       "2023-05-19": 322,
@@ -66,8 +66,7 @@
       "2022-06-25": 24,
       "2022-06-21": 47,
       "2022-06-14": 20,
-      "2022-06-07": 84,
-      "2022-06-02": 36
+      "2022-06-07": 84
     }
   },
   {
@@ -81,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1074,
-    "timeDay": 706,
-    "timeWeek": 592,
-    "timeMonth": 1353,
-    "timeYear": 1139,
+    "time": 1073,
+    "timeDay": 240,
+    "timeWeek": 594,
+    "timeMonth": 1355,
+    "timeYear": 1138,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -123,8 +122,7 @@
       "2022-06-21": 31,
       "2022-06-17": 56,
       "2022-06-14": 18,
-      "2022-06-07": 83,
-      "2022-06-02": 35
+      "2022-06-07": 83
     }
   },
   {
@@ -138,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.50%",
-    "time": 793,
-    "timeDay": 770,
-    "timeWeek": 809,
+    "time": 792,
+    "timeDay": 537,
+    "timeWeek": 797,
     "timeMonth": 994,
-    "timeYear": 798,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-05-19": 307,
       "2023-03-11": 31,
@@ -187,8 +185,7 @@
       "2022-06-25": 21,
       "2022-06-21": 30,
       "2022-06-14": 17,
-      "2022-06-07": 81,
-      "2022-06-02": 33
+      "2022-06-07": 81
     }
   },
   {
@@ -202,11 +199,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.19%",
-    "time": 4649,
-    "timeDay": 358,
-    "timeWeek": 2683,
-    "timeMonth": 3176,
-    "timeYear": 4651,
+    "time": 4628,
+    "timeDay": 401,
+    "timeWeek": 2689,
+    "timeMonth": 3175,
+    "timeYear": 4628,
     "dailyMinutesDown": {
       "2023-05-19": 309,
       "2023-04-10": 34,
