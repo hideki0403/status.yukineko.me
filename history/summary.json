@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.43%",
-    "time": 1541,
-    "timeDay": 1552,
-    "timeWeek": 1295,
-    "timeMonth": 2490,
-    "timeYear": 1505,
+    "time": 1539,
+    "timeDay": 995,
+    "timeWeek": 1265,
+    "timeMonth": 2486,
+    "timeYear": 1503,
     "dailyMinutesDown": {
       "2023-05-26": 16,
       "2023-05-19": 322,
@@ -65,8 +65,7 @@
       "2022-06-29": 16,
       "2022-06-25": 24,
       "2022-06-21": 47,
-      "2022-06-14": 20,
-      "2022-06-07": 84
+      "2022-06-14": 20
     }
   },
   {
@@ -75,16 +74,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "94.56%",
+    "uptime": "94.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1068,
-    "timeDay": 417,
-    "timeWeek": 354,
-    "timeMonth": 1354,
-    "timeYear": 1133,
+    "time": 1067,
+    "timeDay": 419,
+    "timeWeek": 372,
+    "timeMonth": 1358,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -121,8 +120,7 @@
       "2022-06-25": 22,
       "2022-06-21": 31,
       "2022-06-17": 56,
-      "2022-06-14": 18,
-      "2022-06-07": 83
+      "2022-06-14": 18
     }
   },
   {
@@ -137,9 +135,9 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.51%",
     "time": 793,
-    "timeDay": 953,
-    "timeWeek": 889,
-    "timeMonth": 1016,
+    "timeDay": 845,
+    "timeWeek": 872,
+    "timeMonth": 1018,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2023-05-19": 307,
@@ -184,8 +182,7 @@
       "2022-06-29": 16,
       "2022-06-25": 21,
       "2022-06-21": 30,
-      "2022-06-14": 17,
-      "2022-06-07": 81
+      "2022-06-14": 17
     }
   },
   {
@@ -194,16 +191,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-status-api.glitch.me.ico",
     "slug": "earthquake-early-warning-plus",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.19%",
     "time": 4626,
-    "timeDay": 167,
-    "timeWeek": 3347,
-    "timeMonth": 3178,
-    "timeYear": 4605,
+    "timeDay": 333,
+    "timeWeek": 1585,
+    "timeMonth": 2938,
+    "timeYear": 4606,
     "dailyMinutesDown": {
       "2023-05-19": 309,
       "2023-04-10": 34,
