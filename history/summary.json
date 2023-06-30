@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
-    "time": 1527,
-    "timeDay": 1700,
-    "timeWeek": 1487,
-    "timeMonth": 1379,
-    "timeYear": 1509,
+    "uptimeYear": "99.47%",
+    "time": 1466,
+    "timeDay": 712,
+    "timeWeek": 1476,
+    "timeMonth": 1340,
+    "timeYear": 1517,
     "dailyMinutesDown": {
       "2023-05-26": 16,
       "2023-05-19": 322,
@@ -60,8 +60,7 @@
       "2022-07-24": 44,
       "2022-07-18": 19,
       "2022-07-09": 39,
-      "2022-07-08": 63,
-      "2022-06-30": 314
+      "2022-07-08": 63
     }
   },
   {
@@ -70,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.yukineko.me.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 1040,
-    "timeDay": 262,
+    "timeDay": 206,
     "timeWeek": 286,
-    "timeMonth": 361,
-    "timeYear": 1058,
+    "timeMonth": 344,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2023-01-16": 38,
       "2022-11-30": 20,
@@ -110,8 +109,7 @@
       "2022-07-18": 17,
       "2022-07-13": 20,
       "2022-07-09": 37,
-      "2022-07-08": 62,
-      "2022-06-30": 312
+      "2022-07-08": 62
     }
   },
   {
@@ -126,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 788,
-    "timeDay": 817,
-    "timeWeek": 728,
-    "timeMonth": 808,
-    "timeYear": 805,
+    "timeDay": 585,
+    "timeWeek": 711,
+    "timeMonth": 799,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2023-05-19": 307,
       "2023-03-11": 31,
@@ -168,8 +166,7 @@
       "2022-07-24": 41,
       "2022-07-18": 16,
       "2022-07-09": 31,
-      "2022-07-08": 60,
-      "2022-06-30": 311
+      "2022-07-08": 60
     }
   },
   {
@@ -183,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.08%",
-    "time": 4742,
-    "timeDay": 252,
-    "timeWeek": 1587,
-    "timeMonth": 3959,
-    "timeYear": 4573,
+    "time": 4740,
+    "timeDay": 9487,
+    "timeWeek": 1599,
+    "timeMonth": 4258,
+    "timeYear": 4574,
     "dailyMinutesDown": {
       "2023-06-14": 165,
       "2023-06-13": 504,
@@ -214,8 +211,7 @@
       "2022-08-12": 90,
       "2022-07-28": 44,
       "2022-07-02": 15,
-      "2022-07-01": 65,
-      "2022-06-30": 56
+      "2022-07-01": 65
     }
   }
 ]
